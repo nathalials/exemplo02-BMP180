@@ -37,4 +37,8 @@ https://github.com/nathalials/exemplo02-BMP180/blob/master/exemplo02-BMP180.ino
 
     5.1. Selecionar Sketch - Include library - Manage libraries
     
-    5.2. Digitar `adafruit bmp085 library` no campo de busca. Selecionar adafruit bmp085 library e instalar biblioteca.
+    5.2. Digitar `adafruit bmp085 library` no campo de busca. Selecionar adafruit bmp085 library e instalar biblioteca.
+ 
+ 6. Clicar em Verify (verificar código)
+ 
+ 7. Clicar em Upload (rodar código)
