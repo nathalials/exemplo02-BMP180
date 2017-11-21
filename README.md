@@ -13,7 +13,8 @@ https://github.com/nathalials/exemplo02-BMP180/blob/master/exemplo02-BMP180.ino
     2.1.  Alterar as credenciais do wifi (linha 11 e 12)
 
     2.2.  Alterar a org (linha 18):
-        Obs.: Sua org pode ser encontrada na URL https://**iv9si4**.internetofthings.ibmcloud.com/dashboard/
+        
+    Obs.: Sua org pode ser encontrada na URL https://**iv9si4**.internetofthings.ibmcloud.com/dashboard/
 
     2.3. Configurar device type e device ID, conforme o que foi colocado na plataforma.
 
